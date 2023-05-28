@@ -7,3 +7,5 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaAdly&repo=tawbah-backend)](https://github.com/MostafaAdly/tawbah-backend)
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mostafa)](https://github.com/MostafaAdly/backend)
