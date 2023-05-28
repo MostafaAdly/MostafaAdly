@@ -6,4 +6,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaAdly&layout=pie)](https://github.com/MostafaAdly/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaAdly&repo=tawbah-backend)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaAdly&repo=tawbah-backend)](https://github.com/MostafaAdly/tawbah-backend)
