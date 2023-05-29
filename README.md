@@ -1,5 +1,10 @@
 <h1 align="center">
-    Senior Developer / Electronics & Communications Engineer Mostafa Adly
+    Senior Developer
+</h1>
+<h1 align="center">
+
+    Electronics & Communications Engineer
+
 </h1>
 <h3 align="center">A highly skilled passionate developer from Egypt.</h3>
 
