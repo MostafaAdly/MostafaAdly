@@ -362,21 +362,21 @@ Whatsapp / Discord)](https://github.com/MostafaAdly/tawbah-website-discord)
         src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaAdly&repo=tawbah-backend&theme=radical"
     />
 </a>
-<a href="https://github.com/MostafaAdly/tawbah-backend">
+<a href="https://github.com/MostafaAdly/tawbah-website-discord">
     <img
-        align="right"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaAdly&repo=tawbah-backend&theme=radical"
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaAdly&repo=tawbah-website-discord&theme=radical"
     />
 </a>
-<a href="https://github.com/MostafaAdly/tawbah-backend">
+<a href="https://github.com/MostafaAdly/portfolio">
     <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaAdly&repo=tawbah-backend&theme=radical"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaAdly&repo=portfolio&theme=radical"
     />
 </a>
-<a href="https://github.com/MostafaAdly/tawbah-backend">
+<a href="https://github.com/MostafaAdly/virtual-gaming-panel">
     <img
-        align="right"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaAdly&repo=tawbah-backend&theme=radical"
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaAdly&repo=virtual-gaming-panel&theme=radical"
     />
 </a>
