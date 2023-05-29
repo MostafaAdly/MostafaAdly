@@ -341,21 +341,19 @@ Whatsapp / Discord)](https://github.com/MostafaAdly/tawbah-website-discord)
         alt="mostafaadly"
     />
 </p>
-<p>
+<p style="display: block">
     &nbsp;<img
         align="right"
         src="https://github-readme-stats.vercel.app/api?username=mostafaadly&show_icons=true&locale=en&theme=radical&card_width=400"
         alt="mostafaadly"
     />
-</p>
-
-<p>
     <img
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=mostafaadly&theme=radical&card_width=400"
         alt="mostafaadly"
     />
 </p>
+
 <p>
     <a href="https://github.com/MostafaAdly/tawbah-backend">
         <img
