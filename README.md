@@ -12,7 +12,7 @@
 
 - ♦ Worked over 5.5 years in Java / Node.js development environments.
 - ♦ Proven ability to troubleshoot and resolve complex technical issues with creative techniques.
-- ♦ Studing Electronics and Communications Engineer at Canadian International College.
+- ♦ Studing Electronics and Communications Engineering at Canadian International College.
 - ♦ At the moment, I am engaged in the task of [Tawbah (Application / Website /
 Whatsapp / Discord)](https://github.com/MostafaAdly/tawbah-website-discord).
 - ♦ Expert backend developer with extensive knowledge in Java, Node.js, and Express.js.
