@@ -334,16 +334,8 @@ Whatsapp / Discord)](https://github.com/MostafaAdly/tawbah-website-discord)
 </p>
 
 <p>
-    <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafaadly&show_icons=true&locale=en&theme=radical"
-        alt="mostafaadly"
-    />
-</p>
-
-<p>
     &nbsp;<img
-        align="center"
+        align="right"
         src="https://github-readme-stats.vercel.app/api?username=mostafaadly&show_icons=true&locale=en&theme=radical"
         alt="mostafaadly"
     />
@@ -351,11 +343,20 @@ Whatsapp / Discord)](https://github.com/MostafaAdly/tawbah-website-discord)
 
 <p>
     <img
-        align="center"
+        align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=mostafaadly&theme=radical"
         alt="mostafaadly"
     />
 </p>
+
+<p>
+    <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafaadly&show_icons=true&locale=en&theme=radical"
+        alt="mostafaadly"
+    />
+</p>
+
 <a href="https://github.com/MostafaAdly/tawbah-backend">
     <img
         align="left"
@@ -364,7 +365,7 @@ Whatsapp / Discord)](https://github.com/MostafaAdly/tawbah-website-discord)
 </a>
 <a href="https://github.com/MostafaAdly/tawbah-website-discord">
     <img
-        align="center"
+        align="right"
         src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaAdly&repo=tawbah-website-discord&theme=radical"
     />
 </a>
@@ -376,7 +377,7 @@ Whatsapp / Discord)](https://github.com/MostafaAdly/tawbah-website-discord)
 </a>
 <a href="https://github.com/MostafaAdly/virtual-gaming-panel">
     <img
-        align="center"
+        align="right"
         src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaAdly&repo=virtual-gaming-panel&theme=radical"
     />
 </a>
