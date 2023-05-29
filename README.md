@@ -1,11 +1,9 @@
 <h1 align="center">
-    Senior Developer<br/>.
+    Senior Developer<br/>Electronics & Communications Engineer
 </h1>
-<h1 align="center">
 
-    Electronics & Communications Engineer
 
-</h1>
+
 <h3 align="center">A highly skilled passionate developer from Egypt.</h3>
 
 <p align="left">
