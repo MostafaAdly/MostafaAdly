@@ -334,20 +334,22 @@ Whatsapp / Discord)](https://github.com/MostafaAdly/tawbah-website-discord)
 </p>
 
 <br />
-<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafaadly&show_icons=true&locale=en&theme=radical"
-    alt="mostafaadly"
-/>
+<p style="display: block">
+    <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafaadly&show_icons=true&locale=en&theme=radical"
+        alt="mostafaadly"
+    />
+</p>
 <p style="display: block">
     &nbsp;<img
         align="right"
-        src="https://github-readme-stats.vercel.app/api?username=mostafaadly&show_icons=true&locale=en&theme=radical&card_width=400"
+        src="https://github-readme-stats.vercel.app/api?username=mostafaadly&show_icons=true&locale=en&theme=radical&card_width=430"
         alt="mostafaadly"
     />
     <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=mostafaadly&theme=radical&card_width=400"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=mostafaadly&theme=radical&card_width=430"
         alt="mostafaadly"
     />
 </p>
