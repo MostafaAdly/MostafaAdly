@@ -344,7 +344,7 @@ Whatsapp / Discord)](https://github.com/MostafaAdly/tawbah-website-discord)
 <p>
     &nbsp;<img
         align="center"
-        src="https://github-readme-stats.vercel.app/api?username=mostafaadly&show_icons=true&locale=en&theme=radical"
+        src="https://github-readme-stats.vercel.app/api?username=mostafaadly&show_icons=true&locale=en&theme=Gradient"
         alt="mostafaadly"
     />
 </p>
