@@ -31,7 +31,7 @@ Whatsapp / Discord)](https://github.com/MostafaAdly/tawbah-website-discord).
     <a href="https://dev.to/mostafaadly" target="blank"
         ><img
             align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
+            src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png"
             alt="mostafaadly"
             height="30"
             width="40"
