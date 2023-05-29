@@ -356,3 +356,27 @@ Whatsapp / Discord)](https://github.com/MostafaAdly/tawbah-website-discord)
         alt="mostafaadly"
     />
 </p>
+<a href="https://github.com/MostafaAdly/tawbah-backend">
+    <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaAdly&repo=github-readme-stats"
+    />
+</a>
+<a href="https://github.com/MostafaAdly/tawbah-backend">
+    <img
+        align="right"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaAdly&repo=github-readme-stats"
+    />
+</a>
+<a href="https://github.com/MostafaAdly/tawbah-backend">
+    <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaAdly&repo=github-readme-stats"
+    />
+</a>
+<a href="https://github.com/MostafaAdly/tawbah-backend">
+    <img
+        align="right"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaAdly&repo=tawbah-backend"
+    />
+</a>
