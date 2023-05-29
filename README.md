@@ -355,31 +355,28 @@ Whatsapp / Discord)](https://github.com/MostafaAdly/tawbah-website-discord)
         src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaAdly&repo=tawbah-backend&theme=radical&card_width=250"
     />
 </a>
-<div class="div" style="display: block">
-    <p>
-        <img
-            align="center"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafaadly&show_icons=true&locale=en&theme=radical"
-            alt="mostafaadly"
-        />
-    </p>
-
-    <a href="https://github.com/MostafaAdly/tawbah-website-discord">
-        <img
-            align="right"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaAdly&repo=tawbah-website-discord&theme=radical&card_width=250"
-        />
-    </a>
-    <a href="https://github.com/MostafaAdly/portfolio">
-        <img
-            align="left"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaAdly&repo=portfolio&theme=radical&card_width=250"
-        />
-    </a>
-    <a href="https://github.com/MostafaAdly/virtual-gaming-panel">
-        <img
-            align="right"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaAdly&repo=virtual-gaming-panel&theme=radical&card_width=250"
-        />
-    </a>
-</div>
+<p>
+    <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafaadly&show_icons=true&locale=en&theme=radical"
+        alt="mostafaadly"
+    />
+</p>
+<a href="https://github.com/MostafaAdly/tawbah-website-discord">
+    <img
+        align="right"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaAdly&repo=tawbah-website-discord&theme=radical&card_width=250"
+    />
+</a>
+<a href="https://github.com/MostafaAdly/portfolio">
+    <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaAdly&repo=portfolio&theme=radical&card_width=250"
+    />
+</a>
+<a href="https://github.com/MostafaAdly/virtual-gaming-panel">
+    <img
+        align="right"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaAdly&repo=virtual-gaming-panel&theme=radical&card_width=250"
+    />
+</a>
