@@ -13,14 +13,6 @@
 - ♦ At the moment, I am engaged in the task of [Tawbah (Application / Website /
 Whatsapp / Discord)](https://github.com/MostafaAdly/tawbah-website-discord)
 
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"
-        ><img
-            src="https://github-profile-trophy.vercel.app/?username=mostafaadly"
-            alt="mostafaadly"
-    /></a>
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://dev.to/mostafaadly" target="blank"
@@ -380,10 +372,17 @@ Whatsapp / Discord)](https://github.com/MostafaAdly/tawbah-website-discord)
 </p>
 
 <br />
-<p style="display: block; margin-left: auto; margin-right: auto; width: 50%">
+<p>
     <img
-        align="center"
+        align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafaadly&layout=pie&show_icons=true&locale=en&theme=radical"
         alt="mostafaadly"
     />
+</p>
+<p align="right">
+    <a href="https://github.com/ryo-ma/github-profile-trophy"
+        ><img
+            src="https://github-profile-trophy.vercel.app/?username=mostafaadly"
+            alt="mostafaadly"
+    /></a>
 </p>
