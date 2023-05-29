@@ -334,15 +334,7 @@ Whatsapp / Discord)](https://github.com/MostafaAdly/tawbah-website-discord)
 </p>
 
 <br />
-<p
-    style="
-        display: block;
-        margin: auto;
-        width: 50%;
-        border: 20px solid green;
-        padding: 10px;
-    "
->
+<p style="display: block; margin-left: auto; margin-right: auto; width: 50%">
     <img
         align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafaadly&show_icons=true&locale=en&theme=radical"
