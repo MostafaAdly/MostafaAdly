@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafaadly" alt="mostafaadly" /></a> </p>
 
-- ♦ At the moment, I am engaged in the task of [Tawbah (Application / Website / Whatsapp / Discord)](https://github.com/MostafaAdly/tawbah-website-discord)
+-   ♦ At the moment, I am engaged in the task of [Tawbah (Application / Website / Whatsapp / Discord)](https://github.com/MostafaAdly/tawbah-website-discord)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/mostafaadly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mostafaadly" height="30" width="40" /></a>
+<a href="https://dev.to/mostafaadly" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mostafaadly" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mostafa-adly-139b65277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa-adly-139b65277" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21976653" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21976653" height="30" width="40" /></a>
 <a href="https://kaggle.com/mostafaadly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mostafaadly" height="30" width="40" /></a>
