@@ -334,7 +334,15 @@ Whatsapp / Discord)](https://github.com/MostafaAdly/tawbah-website-discord)
 </p>
 
 <br />
-<p style="display: block">
+<p
+    style="
+        display: block;
+        margin: auto;
+        width: 50%;
+        border: 3px solid green;
+        padding: 10px;
+    "
+>
     <img
         align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafaadly&show_icons=true&locale=en&theme=radical"
@@ -349,7 +357,7 @@ Whatsapp / Discord)](https://github.com/MostafaAdly/tawbah-website-discord)
     />
     <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=mostafaadly&theme=radical&card_width=440"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=mostafaadly&theme=radical&card_width=435"
         alt="mostafaadly"
     />
 </p>
