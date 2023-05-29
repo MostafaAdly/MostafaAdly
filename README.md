@@ -339,7 +339,7 @@ Whatsapp / Discord)](https://github.com/MostafaAdly/tawbah-website-discord)
         display: block;
         margin: auto;
         width: 50%;
-        border: 3px solid green;
+        border: 20px solid green;
         padding: 10px;
     "
 >
