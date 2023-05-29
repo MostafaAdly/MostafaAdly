@@ -333,13 +333,13 @@ Whatsapp / Discord)](https://github.com/MostafaAdly/tawbah-website-discord)
     </a>
 </p>
 <p style="display: block">
-    &nbsp;<img
+    <img
         align="right"
-        src="https://github-readme-stats.vercel.app/api?username=mostafaadly&show_icons=true&locale=en&theme=radical&card_width=300"
+        src="https://github-readme-stats.vercel.app/api?username=mostafaadly&show_icons=true&locale=en&theme=radical&card_width=400"
         alt="mostafaadly"
     />
     <img
-        align="center"
+        align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=mostafaadly&theme=radical&card_width=400"
         alt="mostafaadly"
     />
