@@ -383,7 +383,7 @@ Whatsapp / Discord)](https://github.com/MostafaAdly/tawbah-website-discord)
 <br />
 <p>
     <img
-        align="left"
+        align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafaadly&layout=pie&show_icons=true&locale=en&theme=radical"
         alt="mostafaadly"
     />
