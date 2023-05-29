@@ -324,6 +324,15 @@ Whatsapp / Discord)](https://github.com/MostafaAdly/tawbah-website-discord)
         />
     </a>
 </p>
+
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy"
+        ><img
+            src="https://github-profile-trophy.vercel.app/?username=mostafaadly"
+            alt="mostafaadly"
+    /></a>
+</p>
+
 <p style="display: block">
     &nbsp;
     <img
@@ -378,11 +387,4 @@ Whatsapp / Discord)](https://github.com/MostafaAdly/tawbah-website-discord)
         src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafaadly&layout=pie&show_icons=true&locale=en&theme=radical"
         alt="mostafaadly"
     />
-</p>
-<p align="right">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"
-        ><img
-            src="https://github-profile-trophy.vercel.app/?username=mostafaadly"
-            alt="mostafaadly"
-    /></a>
 </p>
