@@ -361,7 +361,7 @@ Whatsapp / Discord)](https://github.com/MostafaAdly/tawbah-website-discord)
     <a href="https://github.com/MostafaAdly/tawbah-backend">
         <img
             align="left"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaAdly&repo=tawbah-backend&theme=radical&card_width=250"
+            src="https://github-readme-stats.vercel.app/api/pin/?username=MostafaAdly&repo=tawbah-backend&theme=radical"
         />
     </a>
     <a href="https://github.com/MostafaAdly/tawbah-website-discord">
