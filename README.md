@@ -10,8 +10,21 @@
     />
 </p>
 
+- ♦ Worked over 5.5 years in Java / Node.js development environments.
+- ♦ Proven ability to troubleshoot and resolve complex technical issues with creative techniques.
+- ♦ Studing Electronics and Communications Engineer at Canadian International College.
 - ♦ At the moment, I am engaged in the task of [Tawbah (Application / Website /
-Whatsapp / Discord)](https://github.com/MostafaAdly/tawbah-website-discord)
+Whatsapp / Discord)](https://github.com/MostafaAdly/tawbah-website-discord).
+- ♦ Expert backend developer with extensive knowledge in Java, Node.js, and Express.js.
+- ♦ Proficient in designing and building robust and scalable applications using Java and Node.js frameworks.
+- ♦ Experienced in creating RESTful APIs and web services using Express.js.
+- ♦ Strong understanding of server-side technologies and architectures.
+- ♦ Skilled in deploying and managing applications on Ubuntu servers.
+- ♦ Expertise in working with databases, both SQL and NoSQL, and implementing efficient data structures.
+- ♦ Proficient in version control systems like Git, with experience in collaborative development using GitHub.
+- ♦ Familiarity with cloud platforms such as AWS, Azure, or Google Cloud for application deployment.
+- ♦ Solid grasp of software development principles, best practices, and design patterns.
+- ♦ Excellent teamwork and communication skills, collaborating effectively with cross-functional teams.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
