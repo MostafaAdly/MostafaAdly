@@ -1,5 +1,5 @@
 <h1 align="center">
-    Senior Developer<br/>Electronics & Communications Engineer
+    Web Developer<br/>Electronics & Communications Engineer
 </h1>
 
 
