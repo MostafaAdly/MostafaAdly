@@ -26,8 +26,6 @@
 - 🔹 Solid grasp of software development principles, best practices, and design patterns.
 - 🔹 Excellent teamwork and communication skills, collaborating effectively with cross-functional teams.
 - 🔸 Studing Electronics and Communications Engineering at Canadian International College.
-- /*🔸 At the moment, I am engaged in the task of [Tawbah (Application / Website /
-Whatsapp / Discord)](https://github.com/MostafaAdly/tawbah-website-discord). */
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
