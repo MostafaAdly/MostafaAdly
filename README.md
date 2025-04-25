@@ -29,7 +29,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MostafaAdly&theme=tokyonight-duo" alt="GitHub Streak" /></a>
     <a href="https://dev.to/mostafaadly" target="blank"
         ><img
             align="center"
