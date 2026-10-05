@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center">A highly skilled passionate developer from Egypt</h3>
+<h3 align="center">A highly skilled passionate developer from Egypt.</h3>
 
 <p align="left">
     <img
