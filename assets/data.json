@@ -1,0 +1,30 @@
+{
+  "as_of": "2026-11-11",
+  "last_year": 14553,
+  "years": {
+    "2021": 25,
+    "2022": 0,
+    "2023": 257,
+    "2024": 1101,
+    "2025": 2752,
+    "2026": 13769
+  },
+  "repos": {
+    "talkie-promptie": {
+      "stars": 1,
+      "tag": "v3.0.0"
+    },
+    "vast-cli": {
+      "stars": 1,
+      "tag": "v2.9.2"
+    },
+    "tawbah-whatsapp": {
+      "stars": 3,
+      "tag": null
+    },
+    "neuralnetwork": {
+      "stars": 2,
+      "tag": null
+    }
+  }
+}

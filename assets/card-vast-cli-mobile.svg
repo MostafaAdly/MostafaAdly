@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="240" viewBox="0 0 600 240" role="img" aria-label="vast-cli: Promotes a repo develop → staging → production, versioned from what&#x27;s live."><title>vast-cli: Promotes a repo develop → staging → production, versioned from what&#x27;s live.</title><style>.thD{display:none}@media (prefers-color-scheme: dark){.thL{display:none}.thD{display:inline}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style><g class="thL"><defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e8590c"/><stop offset=".5" stop-color="#d6336c"/>
+      <stop offset="1" stop-color="#7048e8"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#e4e8ec"/>
+    </pattern></defs>
+    <clipPath id="card"><rect x=".5" y=".5" width="599" height="221" rx="12"/></clipPath>
+    <rect x=".5" y=".5" width="599" height="221" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+    <g clip-path="url(#card)">
+      <rect x="0" y="0" width="600" height="4" fill="url(#brand)"/>
+      <text x="582" y="214" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="104" font-weight="700" fill="#d6336c" fill-opacity="0.08">⇢</text>
+    </g>
+    <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+      <text x="32" y="56" font-size="32" font-weight="700" fill="#1f2328">vast-cli</text>
+      <text x="568" y="54" text-anchor="end" font-size="26" fill="#59636e">↗</text>
+      <text x="32" y="100" font-size="23" fill="#59636e">Promotes a repo develop → staging →</text><text x="32" y="132" font-size="23" fill="#59636e">production, versioned from what&#x27;s live.</text>
+    </g>
+    <rect x="32" y="164" width="151" height="36" rx="18" fill="#ffffff" stroke="#d0d7de"/><circle cx="52" cy="182" r="6.3" fill="#3178c6"/><text x="66" y="188.3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="18" fill="#1f2328">TypeScript</text><rect x="193" y="164" width="94" height="36" rx="18" fill="#ffffff" stroke="#d0d7de"/><text x="208" y="188.3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="18" fill="#1f2328">v2.9.2</text><rect x="297" y="164" width="61" height="36" rx="18" fill="#ffffff" stroke="#d0d7de"/><text x="311" y="188.3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="18" fill="#1f2328">★ 1</text><rect x="368" y="164" width="158" height="36" rx="18" fill="#ffffff" stroke="#d0d7de"/><text x="382" y="188.3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="18" fill="#1f2328">menu-bar app</text></g><g class="thD"><defs>
+    <linearGradient id="brand-d" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff7a45"/><stop offset=".5" stop-color="#ff3d77"/>
+      <stop offset="1" stop-color="#a371f7"/>
+    </linearGradient>
+    <pattern id="dots-d" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#1f2630"/>
+    </pattern></defs>
+    <clipPath id="card-d"><rect x=".5" y=".5" width="599" height="221" rx="12"/></clipPath>
+    <rect x=".5" y=".5" width="599" height="221" rx="12" fill="#161b22" stroke="#30363d"/>
+    <g clip-path="url(#card-d)">
+      <rect x="0" y="0" width="600" height="4" fill="url(#brand-d)"/>
+      <text x="582" y="214" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="104" font-weight="700" fill="#ff3d77" fill-opacity="0.09">⇢</text>
+    </g>
+    <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+      <text x="32" y="56" font-size="32" font-weight="700" fill="#e6edf3">vast-cli</text>
+      <text x="568" y="54" text-anchor="end" font-size="26" fill="#8b949e">↗</text>
+      <text x="32" y="100" font-size="23" fill="#8b949e">Promotes a repo develop → staging →</text><text x="32" y="132" font-size="23" fill="#8b949e">production, versioned from what&#x27;s live.</text>
+    </g>
+    <rect x="32" y="164" width="151" height="36" rx="18" fill="#0d1117" stroke="#30363d"/><circle cx="52" cy="182" r="6.3" fill="#3178c6"/><text x="66" y="188.3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="18" fill="#e6edf3">TypeScript</text><rect x="193" y="164" width="94" height="36" rx="18" fill="#0d1117" stroke="#30363d"/><text x="208" y="188.3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="18" fill="#e6edf3">v2.9.2</text><rect x="297" y="164" width="61" height="36" rx="18" fill="#0d1117" stroke="#30363d"/><text x="311" y="188.3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="18" fill="#e6edf3">★ 1</text><rect x="368" y="164" width="158" height="36" rx="18" fill="#0d1117" stroke="#30363d"/><text x="382" y="188.3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="18" fill="#e6edf3">menu-bar app</text></g></svg>

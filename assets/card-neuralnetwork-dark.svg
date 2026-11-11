@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="176" viewBox="0 0 1200 176" role="img" aria-label="neuralnetwork: A simple self-learning neural network, written in Java."><title>neuralnetwork: A simple self-learning neural network, written in Java.</title><style>@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style><defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff7a45"/><stop offset=".5" stop-color="#ff3d77"/>
+      <stop offset="1" stop-color="#a371f7"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#1f2630"/>
+    </pattern></defs>
+    <clipPath id="card"><rect x=".5" y=".5" width="1199" height="175" rx="12"/></clipPath>
+    <rect x=".5" y=".5" width="1199" height="175" rx="12" fill="#161b22" stroke="#30363d"/>
+    <g clip-path="url(#card)">
+      <rect x="0" y="0" width="1200" height="4" fill="url(#brand)"/>
+      <text x="1210" y="214" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="170" font-weight="700" fill="#ff3d77" fill-opacity="0.09">∿</text>
+    </g>
+    <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+      <text x="40" y="60" font-size="34" font-weight="700" fill="#e6edf3">neuralnetwork</text>
+      <text x="1160" y="58" text-anchor="end" font-size="26" fill="#8b949e">↗</text>
+      <text x="40" y="102" font-size="24" fill="#8b949e">A simple self-learning neural network, written in Java.</text>
+    </g>
+    <rect x="40" y="122" width="91" height="38" rx="19" fill="#0d1117" stroke="#30363d"/><circle cx="61" cy="141" r="6.6" fill="#b07219"/><text x="76" y="147.7" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="19" fill="#e6edf3">Java</text><rect x="141" y="122" width="65" height="38" rx="19" fill="#0d1117" stroke="#30363d"/><text x="156" y="147.7" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="19" fill="#e6edf3">★ 2</text><rect x="216" y="122" width="213" height="38" rx="19" fill="#0d1117" stroke="#30363d"/><text x="231" y="147.7" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="19" fill="#e6edf3">machine learning</text></svg>

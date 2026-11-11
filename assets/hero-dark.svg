@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Mostafa Adly, software engineer at Vast Group in Cairo. I ship restaurant ordering and payments, the tooling that releases them, and AI agents that do real work."><title>Mostafa Adly, software engineer at Vast Group in Cairo. I ship restaurant ordering and payments, the tooling that releases them, and AI agents that do real work.</title><style>
+    .ph{opacity:0;animation:ph 9s infinite} .ph0{opacity:1}
+    .ph1{animation-delay:3.0s} .ph2{animation-delay:6.0s}
+    @keyframes ph{0%{opacity:0;transform:translateY(8px)}4%,29%{opacity:1;transform:none}33%,100%{opacity:0}}
+    .cur{animation:blink 1.1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+    .pulse{animation:pulse 3s ease-in-out infinite}
+    @keyframes pulse{50%{opacity:.35}}
+    @keyframes l0{0%,4.0%{opacity:0}5.5%,94%{opacity:1}100%{opacity:0}}.l0{animation:l0 15.0s infinite}@keyframes l1{0%,10.0%{opacity:0}11.5%,94%{opacity:1}100%{opacity:0}}.l1{animation:l1 15.0s infinite}@keyframes l2{0%,16.0%{opacity:0}17.5%,94%{opacity:1}100%{opacity:0}}.l2{animation:l2 15.0s infinite}@keyframes l3{0%,22.0%{opacity:0}23.5%,94%{opacity:1}100%{opacity:0}}.l3{animation:l3 15.0s infinite}@keyframes l4{0%,28.0%{opacity:0}29.5%,94%{opacity:1}100%{opacity:0}}.l4{animation:l4 15.0s infinite}@keyframes l5{0%,34.0%{opacity:0}35.5%,94%{opacity:1}100%{opacity:0}}.l5{animation:l5 15.0s infinite}@keyframes l6{0%,40.0%{opacity:0}41.5%,94%{opacity:1}100%{opacity:0}}.l6{animation:l6 15.0s infinite}@keyframes l7{0%,46.0%{opacity:0}47.5%,94%{opacity:1}100%{opacity:0}}.l7{animation:l7 15.0s infinite}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style><defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff7a45"/><stop offset=".5" stop-color="#ff3d77"/>
+      <stop offset="1" stop-color="#a371f7"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#1f2630"/>
+    </pattern>
+    <radialGradient id="glowA"><stop offset="0" stop-color="#ff3d77" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#ff3d77" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glowB"><stop offset="0" stop-color="#a371f7" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#a371f7" stop-opacity="0"/></radialGradient></defs><rect x=".5" y=".5" width="1199" height="419" rx="12" fill="#0d1117" stroke="#30363d"/><rect x=".5" y=".5" width="1199" height="419" rx="12" fill="url(#dots)"/>
+    <circle cx="216" cy="70" r="330" fill="url(#glowA)"/>
+    <circle cx="1080" cy="400" r="320" fill="url(#glowB)"/>
+    <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+      <circle class="pulse" cx="62" cy="76" r="5" fill="#3fb950"/>
+      <text x="76" y="82" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="16" letter-spacing="1.5" fill="#8b949e">CAIRO, EGYPT · SOFTWARE ENGINEER @ VAST GROUP</text>
+      <text x="54" y="162" font-size="74" font-weight="800" letter-spacing="-2" fill="url(#brand)">Mostafa Adly</text>
+      <text x="58" y="208" font-size="30" fill="#8b949e">مصطفى عدلي</text>
+      <text x="58" y="256" font-size="25" fill="#e6edf3">I ship restaurant ordering and payments,</text><text x="58" y="290" font-size="25" fill="#e6edf3">the tooling that releases them,</text><text x="58" y="324" font-size="25" fill="#e6edf3">and AI agents that do real work.</text>
+      <text x="58" y="372" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="20" font-weight="700" fill="url(#brand)">now ▸</text>
+      <text class="ph ph0" x="130" y="372" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="20" fill="#e6edf3">shipping VastPay &amp; VastMenu</text><text class="ph ph1" x="130" y="372" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="20" fill="#e6edf3">automating the release train</text><text class="ph ph2" x="130" y="372" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="20" fill="#e6edf3">building Kallm Agent, solo</text>
+    </g>
+    <g>
+      <rect x="680" y="52" width="472" height="316" rx="10" fill="#161b22" stroke="#30363d"/>
+      <path d="M680 92h472" stroke="#30363d"/>
+      <circle cx="702" cy="72" r="6" fill="#ff5f57"/><circle cx="722" cy="72" r="6" fill="#febc2e"/>
+      <circle cx="742" cy="72" r="6" fill="#28c840"/>
+      <text x="916" y="78" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#8b949e">~/vast — zsh</text><text class="l0" x="700" y="128" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17"><tspan fill="#ff3d77">$</tspan><tspan fill="#e6edf3"> vast status --all</tspan></text><text class="l1" x="700" y="158" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#8b949e" xml:space="preserve">  VastPayPwa    staging ✓   prod ✓</text><text class="l2" x="700" y="188" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#8b949e" xml:space="preserve">  VastMenuPwa   staging ✓   prod ✓</text><text class="l3" x="700" y="218" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17"><tspan fill="#ff3d77">$</tspan><tspan fill="#e6edf3"> vast release VastPayPwa</tspan></text><text class="l4" x="700" y="248" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#8b949e" xml:space="preserve">  ▸ version derived from what&#x27;s live</text><text class="l5" x="700" y="278" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#8b949e" xml:space="preserve">  ▸ develop → staging, deployed</text><text class="l6" x="700" y="308" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#3fb950" xml:space="preserve">  ✓ confirmed live</text><g class="l7"><text x="700" y="338" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#ff3d77">$</text><rect class="cur" x="719" y="324" width="10" height="19" fill="#e6edf3"/></g></g>
+    <rect x="54" y="398" width="1092" height="3" rx="1.5" fill="url(#brand)" opacity=".85"/></svg>

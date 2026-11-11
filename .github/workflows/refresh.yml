@@ -1,0 +1,36 @@
+name: Refresh profile stats
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # daily 06:00 UTC; the as_of date changes each run, so a commit
+                          # lands daily and keeps the schedule from going dormant
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/build.py"]
+
+permissions:
+  contents: write
+
+concurrency: refresh
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Rebuild SVGs with live numbers
+        run: python3 scripts/build.py
+        env:
+          # GITHUB_TOKEN may not see private contribution counts. If this step fails
+          # with "last_year dropped", add a PROFILE_TOKEN secret (classic PAT, read:user).
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+      - name: Commit if anything changed
+        run: |
+          git add assets README.md
+          git diff --cached --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh profile stats"
+          git pull --rebase
+          git push
