@@ -16,7 +16,7 @@
       <text x="50" y="176" font-size="100" font-weight="800" letter-spacing="-3" fill="url(#brand)">14,687</text>
       <text x="56" y="220" font-size="26" fill="#e6edf3">contributions on GitHub</text>
       <text x="56" y="254" font-size="19" fill="#8b949e">public and private</text>
-      <text x="56" y="306" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="16" fill="#8b949e">as of Nov 12, 2026</text>
+      <text x="56" y="306" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="16" fill="#8b949e">as of Nov 13, 2026</text>
       <text x="520" y="64" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="16" letter-spacing="2" fill="#8b949e">CONTRIBUTIONS PER YEAR</text>
       <text x="1144" y="64" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="16" fill="#8b949e">* 2026 so far</text>
       <path d="M520 280.5H1144" stroke="#30363d"/>
