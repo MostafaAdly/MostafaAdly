@@ -32,7 +32,7 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/stats-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img width="100%" alt="14,613 GitHub contributions in the last 12 months. Per year: 2021: 25, 2022: 0, 2023: 257, 2024: 1,101, 2025: 2,752, 2026: 13,921 (2026 so far)." src="assets/stats-light.svg">
+  <img width="100%" alt="14,692 GitHub contributions in the last 12 months. Per year: 2021: 25, 2022: 0, 2023: 257, 2024: 1,101, 2025: 2,752, 2026: 14,000 (2026 so far)." src="assets/stats-light.svg">
 </picture>
 
 ## Toolbox
