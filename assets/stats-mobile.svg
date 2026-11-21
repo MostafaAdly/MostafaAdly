@@ -16,7 +16,7 @@
       <text x="50" y="166" font-size="100" font-weight="800" letter-spacing="-3" fill="url(#brand)">14,769</text>
       <text x="56" y="212" font-size="28" fill="#1f2328">contributions on GitHub</text>
       <text x="56" y="248" font-size="21" fill="#59636e">public and private</text>
-      <text x="56" y="292" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="18" fill="#59636e">as of Nov 20, 2026</text>
+      <text x="56" y="292" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="18" fill="#59636e">as of Nov 21, 2026</text>
       <text x="40" y="352" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="18" letter-spacing="2" fill="#59636e">CONTRIBUTIONS PER YEAR</text>
       <text x="560" y="352" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="18" fill="#59636e">* 2026 so far</text>
       <path d="M40 600.5H560" stroke="#d0d7de"/>
@@ -39,7 +39,7 @@
       <text x="50" y="166" font-size="100" font-weight="800" letter-spacing="-3" fill="url(#brand-d)">14,769</text>
       <text x="56" y="212" font-size="28" fill="#e6edf3">contributions on GitHub</text>
       <text x="56" y="248" font-size="21" fill="#8b949e">public and private</text>
-      <text x="56" y="292" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="18" fill="#8b949e">as of Nov 20, 2026</text>
+      <text x="56" y="292" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="18" fill="#8b949e">as of Nov 21, 2026</text>
       <text x="40" y="352" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="18" letter-spacing="2" fill="#8b949e">CONTRIBUTIONS PER YEAR</text>
       <text x="560" y="352" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="18" fill="#8b949e">* 2026 so far</text>
       <path d="M40 600.5H560" stroke="#30363d"/>
